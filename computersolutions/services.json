@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repairs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora quisquam, dolorum illo! Deleniti sunt libero aut doloremque voluptate cum delectus consectetur iste voluptates, impedit dolorum esse in? Voluptas, odit.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora quisquam, dolorum illo! Deleniti sunt libero aut doloremque voluptate cum delectus consectetur iste voluptates, impedit dolorum esse in? Voluptas, odit.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi tempora quisquam, dolorum illo! Deleniti sunt libero aut doloremque voluptate cum delectus consectetur iste voluptates, impedit dolorum esse in? Voluptas, odit.",
+    "image": "computer-icon.png"
+  }
+]
